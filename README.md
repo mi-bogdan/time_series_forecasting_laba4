@@ -26,7 +26,7 @@
 GRU (UpdateGateandResetGate)
  В GRU используются фильтры обновления и сброса, которые определяют, какую информацию следует передавать на выход. Особенность такой архитектуры заключается в том, что можно научить сеть хранить только ту информацию, причем достаточно долго, которая имеет отношения к прогнозу.
 
-![Image alt](https://github.com/mi-bogdan/Clustering-laba2/blob/main/img/1.jpg)
+![Image alt](https://github.com/mi-bogdan/time_series_forecasting_laba4/blob/main/img/iyeunctQe2Y.jpg)
 
 ## License
 

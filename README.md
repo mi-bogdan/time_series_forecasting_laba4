@@ -16,7 +16,7 @@
 
 ##### 1) Описание предметной области и постановка задачи:
 
-  - [Набор данных «Отрасль экономики США Financials »](https://www.finam.ru/profile/otrasli-ehkonomiki-usa/financials/export/?market=27&em=18991&token=03AD1IbLDAaSWQN_oI5mWVK7f-Aqmn-bUR6SSDOk-Ei_OAYto0UJ 98KukfrpbU0xetg1LyZq1lFl_7uZPt8WVXQshJXoUa7gcNrJ9bck0bcqJkAf6b5bMz6aM_2f-9XL-yDn-jzdnD58MAncyvTgdq5a3OSF5sIj-W6We72PTYNWQt2FYlCJiiF9_wjuoLbZi0V8_86-9eVFNio1-NB3oNmrYE3RZA-YRHaGglTaVcWzJN-zodzo4rBANu3d5nV5TKOHJbjGqplhPv6Wfu4kdvRKfTpi9uGkdFKtex5HJrYTcAX_buLVZsqK83lHHp0wa8jaQy1DmGEzhu9bzSHU9wlI6s-SWN7X6qLEaJ-XYqI69Z_CKh0HboKDEaDhwhT1jrQeiDgnIpJ6flQ_-w2t-5pFNoL5WVML8OCBCQ8sMtIUrqacnNq7J_ApiHtM8Ak2h73Cr7ttu22ocZvahqc5UcaEk4mWHyKaSJLmBbznKSkqGfVKSjyVuvIR40mxKaadQDAL4z9mo9u7&code=%24DJUSFN&apply=0&df=18&mf=4&yf=2018&from=18.05.2018&dt=3&mt=0&yt=2020&to=03.01.2020&p=8&f=%24DJUSFN_180518_200103&e=.csv&cn=%24DJUSFN&dtf=1&tmf=1&MSOR=1&mstime=on&mstimever=1&sep=1&sep2=1&datf=5&at=1)
+  - [Набор данных «Отрасль экономики США Financials »](https://www.finam.ru/profile/otrasli-ehkonomiki-usa/financials/export/?market=27&em=18991&token=03AD1IbLDAaSWQN_oI5mWVK7f-Aqmn-bUR6SSDOk-Ei_OAYto0UJ)
 
 ##### 2) Теория:
 
